@@ -40,7 +40,7 @@ public class Student {
 		this.marks = marks;
 	}
 }
-
+// adding new prop. new changes
 /*create table student(stid int auto_increment primary key,
 stname varchar(50) not null,
 stcourse varchar(50) not null,
