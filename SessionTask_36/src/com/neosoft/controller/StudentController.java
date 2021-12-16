@@ -32,6 +32,8 @@ public class StudentController {
 		return students;
 	}
 	
+	// making new changes.
+	
 	//For new student insert
 	public static int insertStudent(Student student) throws SQLException{
 		Connection con = JDBCProperties.getConnection();
